@@ -1,4 +1,4 @@
-# house-price-prediction
+SCT_ML_TASK1
 Linear Regression Model for House Price Prediction using Python
 # 🏠 House Price Prediction
 
